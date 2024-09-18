@@ -73,11 +73,11 @@ body, html {
 }
 
 .service.mechanic {
-    background: url('../../garagexauto/assets/img/garagxphoto.jpeg') no-repeat center center/cover;
+    background: url('garagxphoto.jpeg') no-repeat center center/cover;
 }
 
 .service.electrician {
-    background: url('../img/prototype1.jpeg') no-repeat center center/cover;
+    background: url('prototype1.jpeg') no-repeat center center/cover;
 }
 
 .service:hover {
